@@ -21,9 +21,14 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "66a14b30-8581-4f96-ad38-8d1d831d05fb"
+        "projectId": "cbdd3301-d6e4-40d3-88c1-617c5eb9829c"
       }
     },
-    "newArchEnabled": false
+    "newArchEnabled": false,
+    "sdkVersion": "54.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
   }
 }
