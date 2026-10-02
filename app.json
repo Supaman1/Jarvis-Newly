@@ -19,7 +19,11 @@
     "plugins": [
       "./plugins/withJarvisNative.js"
     ],
-    
+    "extra": {
+      "eas": {
+        "projectId": "cbdd3301-d6e4-40d3-88c1-617c5eb9829c"
+      }
+    },
     "newArchEnabled": false,
     "sdkVersion": "54.0.0",
     "platforms": [
